@@ -1,0 +1,17 @@
+# Install the CUDA-enabled PyTorch build separately before this file:
+# python -m pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
+
+accelerate
+datasets
+filelock
+joblib
+matplotlib
+numpy
+pandas
+pillow
+scikit-learn
+scipy
+seaborn
+streamlit
+tqdm
+transformers>=4.46
