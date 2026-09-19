@@ -1,0 +1,29 @@
+{
+  "temperature": 1.8579983494223777,
+  "fitted_on": "validation set only",
+  "test_samples": 4959,
+  "before_temperature_scaling": {
+    "accuracy": 0.9151038515829805,
+    "precision": 0.9142628205128205,
+    "recall": 0.9168340699075934,
+    "f1": 0.9155466399197593,
+    "roc_auc": 0.9724413329581332,
+    "average_precision": 0.9705387921741239,
+    "negative_log_likelihood": 0.30106237530708313,
+    "brier_score": 0.07190556155918529,
+    "expected_calibration_error": 0.06149425515486222,
+    "mean_confidence": 0.9757238030433655
+  },
+  "after_temperature_scaling": {
+    "accuracy": 0.9151038515829805,
+    "precision": 0.9142628205128205,
+    "recall": 0.9168340699075934,
+    "f1": 0.9155466399197593,
+    "roc_auc": 0.972440682322055,
+    "average_precision": 0.970538913346681,
+    "negative_log_likelihood": 0.22748711705207825,
+    "brier_score": 0.06501372424773313,
+    "expected_calibration_error": 0.03214047887340191,
+    "mean_confidence": 0.9276723265647888
+  }
+}
